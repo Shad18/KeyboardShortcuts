@@ -1,1 +1,39 @@
+Welcome to our python Image Editor program!
 
+-->Click the 'Open Image' button to browse and select an image from your computer for editing.
+-->Click the 'Close' button to shut or exit the current image within the editor.
+
+Explore various functionalities: 'Position' for placement adjustments, 'Colour' for hue and tone modifications, 'Effects' for creative enhancements, and 'Export' to save your edited image.
+
+#POSITION: 
+-->Rotation : Rotate the image up to 360 degrees to achieve your desired orientation.
+-->Zoom     : Zoom in on the image up to 200% to magnify and focus on specific details.
+-->Invert   : Invert the image along the X and Y axes to achieve a mirrored effect.
+
+#COLOUR:
+-->B/W        : Convert the image to black and white with a single click using the 'B/W' button.
+-->Invert     : Invert the image to create its negative or opposite color scheme.
+-->Brightness : Adjust the image's brightness by reducing or increasing it to achieve the desired lighting effect.
+-->Vibrance   : Enhance the vibrance of the image to make colors appear more vivid and rich.
+
+#EFFECTS:
+-->Emboss       : Apply the 'Emboss' effect to give the image a raised, three-dimensional appearance.
+-->Find Edges   : Utilize the 'Find Edges' filter to highlight and emphasize the edges within the image for a distinct visual effect.
+-->Contour      : Utilize the 'Contour' feature to emphasize the lines and borders within the image, adding a distinct artistic effect.
+-->Edge Enhance : Apply 'Edge Enhance' to sharpen and accentuate the edges within the image for a clearer, more defined appearance
+-->None         : Select 'None' to revert the image back to its original, unedited state.
+
+-->Blur     : Apply 'Blur' to soften details in the image, creating a smooth or out-of-focus effect.
+-->Contrast : Adjust the 'Contrast' to vary the difference between the light and dark areas, enhancing the image's visual impact.
+
+#REVERT: 
+-->Use the 'Revert' button to return the image to its original state.
+
+#EXPORT: 
+-->Save the image as 'jpeg' or 'png' file in the desired folder in your computer.
+
+
+#Use the FILE menu to open a new image, a new window, export the edited image, or exit the window. 
+#Use the HELP menu to access the user manual and keyboard shorcuts.
+
+Thank you for using our Image Editor program. We hope it has empowered your creativity and image editing needs. Have a fantastic day!!
